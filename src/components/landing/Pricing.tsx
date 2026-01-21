@@ -74,7 +74,7 @@ export const Pricing = () => {
         />
         <PlanCard
           title="File-ready (≤ $10k or HP)"
-          price="$39"
+          price="$29.99"
           priceSuffix="/ claim"
           description="Guided intake + tailored checklist + packet to download and file."
           features={[
